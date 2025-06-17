@@ -8,9 +8,9 @@ Address_Title/
     Otodom_Apartment_major_cities_dataset_Address.csv
     Otodom_Apartment_major_cities_dataset_Translate.csv
 Datasets/
-    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part1.csv.zip
-    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part2.csv.zip
-    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part3.csv.zip
+    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part1.csv
+    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part2.csv
+    Otodom_Apartment_major_cities_dataset_ORG_JSON_Format_Part3.csv
 Python_scripts/
     fetch_address_Otodom_Analysis.py
     load_data_gsheet_to_SF_Otodom_Analysis.py
