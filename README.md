@@ -2,6 +2,7 @@
 This project provides a complete data pipeline for analyzing real estate listings from Otodom, leveraging Snowflake, Python, Google Sheets, and Brightdata. The workflow covers data extraction, transformation, enrichment, and analysis to answer key business questions about the Polish real estate market.
 
 Project Structure
+
 Problems_n_Solutions.txt
 Snowflake_script_Otodom_Analysis.txt
 Address_Title/
