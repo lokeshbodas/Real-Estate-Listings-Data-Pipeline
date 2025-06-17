@@ -7,7 +7,7 @@ This project provides a complete data pipeline for analyzing real estate listing
 - **Datasets/:** Original dataset CSVs.
 - **Python_scripts/:** Python scripts for data fetching, transformation, and integration with Google Sheets.
 
-##End-to-End Flow
+## End-to-End Flow
 1. Data Acquisition
  - Download real estate data from Otodom via Brightdata.
  - Export the dataset to a Snowflake stage.
@@ -35,20 +35,20 @@ This project provides a complete data pipeline for analyzing real estate listing
    - Most affordable neighborhoods.
    - Distribution of private ads.
 
-##Python Scripts
+## Python Scripts
  - `fetch_address.py`: Fetches address information using geolocation.
  - `load_data_gsheet_to_SF.py`: Loads translated titles from Google Sheets to Snowflake.
 
-##Loading Data to Snowflake
+## Loading Data to Snowflake
 - Use PUT and COPY INTO commands to load CSVs into Snowflake tables.
 - See detailed steps in Snowflake_script_Otodom_Analysis.txt.
 
-##Prerequisites
+## Prerequisites
  - Snowflake account and SnowSQL CLI.
  - Python 3.x with required packages.
  - Google Cloud project with Drive and Sheets API enabled (for translation).
 
-##References
+## References
  - Snowflake Documentation
  - Brightdata
  - Otodom
