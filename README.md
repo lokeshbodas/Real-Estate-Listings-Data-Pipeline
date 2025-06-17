@@ -1,4 +1,5 @@
 # Real-Estate-Listings-Data-Pipeline
+Otodom Real Estate Listings Data Pipeline
 This project provides a complete data pipeline for analyzing real estate listings from Otodom using Snowflake, Python, Google Sheets, and Brightdata.
 
 Project Structure
@@ -51,3 +52,8 @@ Prerequisites
 Snowflake account and SnowSQL CLI.
 Python 3.x with required packages.
 Google Cloud project with Drive and Sheets API enabled (for translation).
+References
+Snowflake Documentation
+Brightdata
+Otodom
+For detailed step-by-step instructions, see Snowflake_script_Otodom_Analysis.txt.
